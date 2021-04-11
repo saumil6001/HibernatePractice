@@ -12,7 +12,7 @@
 
 		<!-- Assume test is the database name -->
 
-		<property name="hibernate.connection.url">jdbc:mysql://localhost/test</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost/assignment1</property>
 
 		<property name="hibernate.connection.username">saumil</property>
 
@@ -24,7 +24,6 @@
 		
 		<property name="show_sql">true</property>
 		
-
 		<property name="current_session_context_class">thread</property>
 		
 
